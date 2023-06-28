@@ -1,5 +1,4 @@
 
-
 import xmlrpc.client
 from Info_connection import ip_v4 ,url ,db ,username ,passwordPrj_SimonAlexis2
 
