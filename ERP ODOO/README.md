@@ -14,7 +14,7 @@ admin
 
 
 
-[ODOO](http://localhost:9000)
+[ODOO](http://localhost:9080)
 
 # MASTER PASSWORD
 simon
