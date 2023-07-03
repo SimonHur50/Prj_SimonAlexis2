@@ -14,3 +14,29 @@ admin
 
 
 
+[ODOO](http://localhost:9000)
+
+# MASTER PASSWORD
+simon
+
+# DataBase name
+simonalexis
+
+# NOM D'UTILISATEUR
+admin
+
+# PASSWORD
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
