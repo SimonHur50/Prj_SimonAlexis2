@@ -1,4 +1,5 @@
 #installation python
--`pip install opcua`
--`pip install opcua-client`
+
+- `pip install opcua`
+- `pip install opcua-client`
 
